@@ -1,5 +1,5 @@
 // JavaScript (main.js)
-function esPrimo(numero) {
+/*function esPrimo(numero) {
     if (numero <= 1) {
         return false;
     }
@@ -20,4 +20,4 @@ document.getElementById("verificarBtn").addEventListener("click", function() {
     } else {
         resultadoElement.textContent = `${numero} no es un número primo.`;
     }
-});
+}); */
